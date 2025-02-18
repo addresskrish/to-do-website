@@ -21,11 +21,11 @@ This project is a simple and interactive To-Do List web application with a dynam
 ## Setup Instructions
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/todo-landing-page.git
+   git clone https://github.com/your-username/To-Do-Website.git
    ```
 2. **Navigate to the Project Folder**
    ```sh
-   cd todo-landing-page
+   cd To-Do-Website
    ```
 3. **Open the `index.html` File in a Browser**
    - You can directly open `index.html` in your browser or use Live Server in VS Code for better performance.
